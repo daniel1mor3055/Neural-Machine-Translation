@@ -1,2 +1,1 @@
-# NMT Assignment
-Note: Heavily inspired by the https://github.com/pcyin/pytorch_basic_nmt repository
+NMT Assignment - Stanford CS224N NLP
